@@ -71,7 +71,9 @@ Essa etapa está contida aqui:
 
 Todo nosso processo está descrito no modelo abaixo, passando por todos os tópicos solicitados nas diretrizes do projeto.
 
-![WhatsApp Image 2023-01-16 at 17.01.02.jpeg](https://www.notion.so/Mindful-Data-Consultoria-d495964059c34acb9c8fe3d21dbb5cf6#b4a36a9f8b7c4ec9bc9e291541d596c7)
+<div align="center">
+  <img src="https://www.notion.so/Mindful-Data-Consultoria-d495964059c34acb9c8fe3d21dbb5cf6#b4a36a9f8b7c4ec9bc9e291541d596c7"/>
+</div>
 
 ### 📄**Definição das bases de dados**
 
