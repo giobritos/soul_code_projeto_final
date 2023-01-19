@@ -96,22 +96,22 @@ Os dados escolhidos estão disponíveis no site **NYC Open Data**, adm
 Abaixo estão descritos todo o passo a passo desde a extração, até a união dos datasets de SP e NY já tratados.
 
 **DataSet Original SP:** 
-[Google Colaboratory](https://colab.research.google.com/drive/1eV38I-n5OIjpW3-0Sq5ZufqgKW2t4xcm#scrollTo=vlvmxhs9gz3i)
+[Google Colaboratory](https://github.com/giobritos/soul_code_projeto_final/blob/d95442856ba9c7cc6da5e01db94d6c0e26276485/Import_Originais_SP.ipynb)
 
 **DataSet Tratado SP:**
-[Google Colaboratory](https://colab.research.google.com/drive/13qLkbFJe_wSJGXic6iynm9PdZQha2qqc?usp=sharing#scrollTo=YJi1DahFj2JA)
+[Google Colaboratory](https://github.com/giobritos/soul_code_projeto_final/blob/d95442856ba9c7cc6da5e01db94d6c0e26276485/Tratamento_SP_Pandas.ipynb)
 
 **DataSet Original NY:** 
-[Google Colaboratory](https://colab.research.google.com/drive/1SaJsTqgnlMG1bhi3EAuSWcgQbvKC_9HN?usp=sharing)
+[Google Colaboratory](https://github.com/giobritos/soul_code_projeto_final/blob/d95442856ba9c7cc6da5e01db94d6c0e26276485/Import_Originais_NY.ipynb)
 
 **DataSet Tratado NY:**
-[Google Colaboratory](https://colab.research.google.com/drive/18xT-9DM1DLl5xQUe94PORFBuSxu8JbRa?usp=sharing)
+[Google Colaboratory](https://github.com/giobritos/soul_code_projeto_final/blob/d95442856ba9c7cc6da5e01db94d6c0e26276485/Tratamento_NY_PySpark.ipynb)
 
 **Data Frame juntando os dados de SP e NY:**
-[Google Colaboratory](https://colab.research.google.com/drive/10DKEuS-6YmLVSqLintBcaIJbX1kr-85A?usp=sharing)
+[Google Colaboratory](https://github.com/giobritos/soul_code_projeto_final/blob/d95442856ba9c7cc6da5e01db94d6c0e26276485/Uniao_Dados_SP_NY.ipynb)
 
 **Envio do DataSet tratado ao BigQuery via Apache Beam:**
-[Google Colaboratory](https://colab.research.google.com/drive/1_AGCOsc5T1UfPD9jaMlxC7f-F0B2FCJH?usp=sharing)
+[Google Colaboratory](https://github.com/giobritos/soul_code_projeto_final/blob/d95442856ba9c7cc6da5e01db94d6c0e26276485/Custom_Template_GCS_para_BigQuery.ipynb)
 
 
 ## 📈 **Data Visualization**
@@ -129,4 +129,4 @@ O DashBoard interativo foi criado com o Looker Studio e está disponível no lin
 🎞️ **Apresentação Grupo 1 - Crimes:**
 No Link abaixo está nossa apresentação de slides, neste documento traremos mais detalhes sobre todo o processo.
 
-[Apresentacao-Projeto Final](https://docs.google.com/presentation/d/1MOZrRZjA0osVoUOXwtIEGe0eB5-IHpQPyh5FzGpo74U/edit#slide=id.g1c679854a04_0_2587)
+[Apresentacao-Projeto Final](https://github.com/giobritos/soul_code_projeto_final/blob/d95442856ba9c7cc6da5e01db94d6c0e26276485/Grupo%201-%20Apresentacao-Projeto%20Final.pdf)
