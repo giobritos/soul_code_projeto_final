@@ -20,10 +20,10 @@ A **Mindful Data,** empresa de consultoria da área de engenharia de dados, fund
 Nosso **squad** é composto por:
 
 <div align="center">
-  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/Design_sem_nome_(1).png"/>
-  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/3.png"/>
-  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/2.png"/>
-  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/4.png"/>
+  <img height="160em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef78bf14-e393-460d-93b0-377dfc5a18c9/Design_sem_nome_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230119T150411Z&X-Amz-Expires=86400&X-Amz-Signature=597c110a681156100510b68dfffa90060bed385587f1018f1e83f78249c000e3&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Design%2520sem%2520nome%2520%281%29.png%22&x-id=GetObject"/>
+  <img height="160em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3118646-ce44-4d71-9d28-9585359c9da2/3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230119T150405Z&X-Amz-Expires=86400&X-Amz-Signature=881af96c016ae12ec050b77df9db5d9f3b2f195e2608279c7cdb2985f70ad55d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%223.png%22&x-id=GetObject"/>
+  <img height="160em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8c39b4c0-2e0b-4e8d-93c8-3d306887edc3/2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230119T150408Z&X-Amz-Expires=86400&X-Amz-Signature=1cf62d48aca6e48fb54ca3816d73ebd57f57fcd752cd2751fe9841cf8263ce56&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%222.png%22&x-id=GetObject"/>
+  <img height="160em" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72559785-117d-443a-a1f8-aa66b4c116cb/4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230119T150413Z&X-Amz-Expires=86400&X-Amz-Signature=1cbfb8c5bd95da012d9f399ab27247604b50e8962c60579856ef863321d79e51&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%224.png%22&x-id=GetObject"/>
 </div>
 
 ## ⭐ **Diretrizes:**
