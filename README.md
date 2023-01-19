@@ -72,7 +72,7 @@ Essa etapa está contida aqui:
 Todo nosso processo está descrito no modelo abaixo, passando por todos os tópicos solicitados nas diretrizes do projeto.
 
 <div align="center">
-  <img src="https://www.notion.so/Mindful-Data-Consultoria-d495964059c34acb9c8fe3d21dbb5cf6#b4a36a9f8b7c4ec9bc9e291541d596c7"/>
+  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c588b1f8-1273-4620-8369-9a0a0831b3cc/WhatsApp_Image_2023-01-16_at_17.01.02.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230119T150315Z&X-Amz-Expires=86400&X-Amz-Signature=7457d97a24eb81e0af53f25a242e4babc12071e7b6e326b68cfb91dd2d80df13&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22WhatsApp%2520Image%25202023-01-16%2520at%252017.01.02.jpeg%22&x-id=GetObject"/>
 </div>
 
 ### 📄**Definição das bases de dados**
