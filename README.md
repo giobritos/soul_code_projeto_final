@@ -17,7 +17,7 @@ A **Mindful Data,** empresa de consultoria da área de engenharia de dados, fund
 - Processos de ETL;
 - Produção de insights e dashboards para apoiar decisões de negócios;
 
-Nosso **squad** é composto por:
+Nossa **equipe** é composta por:
 
 <div align="center">
   <img height="160em" src="https://github.com/giobritos/soul_code_projeto_final/blob/85db1cc17a5f4226db59df669d8653e16cf377d5/1.png"/>
